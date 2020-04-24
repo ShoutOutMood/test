@@ -9,7 +9,9 @@ public class gitPrac {
 		System.out.println("Chillout");
 		System.out.println("ambient");
 		System.out.println("난 조원"); 
-		// 올라감? 
+		
+		
+		System.out.println("2222222"); 
 	}
 
 }
