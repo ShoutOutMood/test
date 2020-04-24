@@ -8,7 +8,7 @@ public class gitPrac {
 		System.out.println("Doing gitHub~");
 		System.out.println("Chillout");
 		System.out.println("ambient");
-		System.out.println("난 조장"); 
+		System.out.println("난 조원"); 
 		// 올라감? 
 	}
 
